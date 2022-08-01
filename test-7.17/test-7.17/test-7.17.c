@@ -1,8 +1,7 @@
 ﻿#include <stdio.h>
 
-int main() {
-	printf("\n");
-	printf("姓名\tMe\t年龄\t18\t性别\t女\t爱好\t听歌跳舞");
-	return 0;
-
+void main() {
+	double d1 = 1.456;
+	int mum =(int)d1;
+	printf("mum=%d",mum);
 }

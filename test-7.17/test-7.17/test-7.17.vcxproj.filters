@@ -18,5 +18,14 @@
     <ClCompile Include="test-7.17.c">
       <Filter>源文件</Filter>
     </ClCompile>
+    <ClCompile Include="type traslate.c">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="exercise.c">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="pointer.c">
+      <Filter>源文件</Filter>
+    </ClCompile>
   </ItemGroup>
 </Project>
